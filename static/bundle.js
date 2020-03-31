@@ -51646,6 +51646,29 @@ function createStars() {
 
         group.add(mesh);
 
+        var customMaterial = new THREE.ShaderMaterial( 
+            {
+                uniforms: 
+                { 
+                    "c":   { type: "f", value: 0 },
+                    "p":   { type: "f", value: 6 },
+                    glowColor: { type: "c", value: new THREE.Color(0xffff00) },
+                    viewVector: { type: "v3", value: camera.position }
+                },
+                vertexShader:   document.getElementById( 'vertexShader'   ).textContent,
+                fragmentShader: document.getElementById( 'fragmentShader' ).textContent,
+                side: THREE.FrontSide,
+                blending: THREE.AdditiveBlending,
+                transparent: true
+            }   );
+                
+        var starGlow = new THREE.Mesh( geometry.clone(), customMaterial.clone() );
+        starGlow.position.x = mesh.position.x;
+        starGlow.position.y = mesh.position.y;
+        starGlow.position.z = mesh.position.z;
+        starGlow.scale.multiplyScalar(1.2);
+        group.add(starGlow);
+
     }
 
     scene.add(group);

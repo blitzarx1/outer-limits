@@ -1,0 +1,1199 @@
+[
+    {
+        "name": "Sun",
+        "prop_name": "Sol",
+        "l": "-",
+        "b": "-",
+        "dist_ly": "0.00",
+        "abs_magnitude": "4.83",
+        "classification": "G2V"
+    },
+    {
+        "name": "Alpha Centauri",
+        "prop_name": "Rigil Kentaurus",
+        "l": "315.7",
+        "b": "-0.7",
+        "dist_ly": "4.39",
+        "abs_magnitude": "4.06",
+        "classification": "G2V+K1V+M5.5V"
+    },
+    {
+        "name": "Alpha Canis Majoris",
+        "prop_name": "Sirius",
+        "l": "227.2",
+        "b": "-8.9",
+        "dist_ly": "8.60",
+        "abs_magnitude": "1.43",
+        "classification": "A1V+DA2"
+    },
+    {
+        "name": "Epsilon Eridani",
+        "prop_name": "",
+        "l": "195.8",
+        "b": "-48.1",
+        "dist_ly": "10.50",
+        "abs_magnitude": "6.18",
+        "classification": "K2V"
+    },
+    {
+        "name": "Alpha Canis Minoris",
+        "prop_name": "Procyon",
+        "l": "213.7",
+        "b": "+13.0",
+        "dist_ly": "11.41",
+        "abs_magnitude": "2.64",
+        "classification": "F5IV-V+DA"
+    },
+    {
+        "name": "61 Cygni",
+        "prop_name": "",
+        "l": "82.3",
+        "b": "-5.8",
+        "dist_ly": "11.43",
+        "abs_magnitude": "7.07",
+        "classification": "K5V+K7V"
+    },
+    {
+        "name": "Epsilon Indi",
+        "prop_name": "",
+        "l": "336.2",
+        "b": "-48.0",
+        "dist_ly": "11.83",
+        "abs_magnitude": "6.89",
+        "classification": "K4V+T1+T6"
+    },
+    {
+        "name": "Tau Ceti",
+        "prop_name": "",
+        "l": "173.1",
+        "b": "-73.4",
+        "dist_ly": "11.90",
+        "abs_magnitude": "5.68",
+        "classification": "G8V"
+    },
+    {
+        "name": "Omicron\u00b2 Eridani",
+        "prop_name": "Keid",
+        "l": "200.8",
+        "b": "-38.1",
+        "dist_ly": "16.45",
+        "abs_magnitude": "5.92",
+        "classification": "K1V+DA4+M4.5V"
+    },
+    {
+        "name": "70 Ophiuchi",
+        "prop_name": "",
+        "l": "29.9",
+        "b": "+11.4",
+        "dist_ly": "16.59",
+        "abs_magnitude": "5.50",
+        "classification": "K0V+K5V"
+    },
+    {
+        "name": "Alpha Aquilae",
+        "prop_name": "Altair",
+        "l": "47.7",
+        "b": "-8.9",
+        "dist_ly": "16.77",
+        "abs_magnitude": "2.21",
+        "classification": "A7V"
+    },
+    {
+        "name": "Sigma Draconis",
+        "prop_name": "Alsafi",
+        "l": "101.3",
+        "b": "+21.9",
+        "dist_ly": "18.81",
+        "abs_magnitude": "5.87",
+        "classification": "K0V"
+    },
+    {
+        "name": "HR5568",
+        "prop_name": "",
+        "l": "338.2",
+        "b": "+32.7",
+        "dist_ly": "19.26",
+        "abs_magnitude": "6.86",
+        "classification": "K5V+M1V+M3V+T8"
+    },
+    {
+        "name": "Eta Cassiopeiae",
+        "prop_name": "Achird",
+        "l": "122.6",
+        "b": "-5.1",
+        "dist_ly": "19.42",
+        "abs_magnitude": "4.59",
+        "classification": "G0V+K7V"
+    },
+    {
+        "name": "36 Ophiuchi",
+        "prop_name": "",
+        "l": "358.3",
+        "b": "+6.9",
+        "dist_ly": "19.52",
+        "abs_magnitude": "5.46",
+        "classification": "K1V+K1V+K5V"
+    },
+    {
+        "name": "HR7703",
+        "prop_name": "",
+        "l": "5.2",
+        "b": "-30.9",
+        "dist_ly": "19.74",
+        "abs_magnitude": "6.41",
+        "classification": "K3V+M3.5V"
+    },
+    {
+        "name": "82 Eridani",
+        "prop_name": "",
+        "l": "250.8",
+        "b": "-56.1",
+        "dist_ly": "19.76",
+        "abs_magnitude": "5.35",
+        "classification": "G5V"
+    },
+    {
+        "name": "Delta Pavonis",
+        "prop_name": "",
+        "l": "329.8",
+        "b": "-32.4",
+        "dist_ly": "19.92",
+        "abs_magnitude": "4.62",
+        "classification": "G5IV-V"
+    },
+    {
+        "name": "HR8832",
+        "prop_name": "",
+        "l": "109.9",
+        "b": "-3.2",
+        "dist_ly": "21.28",
+        "abs_magnitude": "6.50",
+        "classification": "K3V"
+    },
+    {
+        "name": "Xi Bo\u00f6tis",
+        "prop_name": "",
+        "l": "23.1",
+        "b": "+61.4",
+        "dist_ly": "21.85",
+        "abs_magnitude": "5.41",
+        "classification": "G8V+K4V"
+    },
+    {
+        "name": "HR753",
+        "prop_name": "",
+        "l": "163.4",
+        "b": "-47.6",
+        "dist_ly": "23.51",
+        "abs_magnitude": "6.50",
+        "classification": "K3V+M4.5V"
+    },
+    {
+        "name": "HR6426",
+        "prop_name": "",
+        "l": "351.8",
+        "b": "+1.4",
+        "dist_ly": "23.6",
+        "abs_magnitude": "6.61",
+        "classification": "K3V+K5V+M2.5V"
+    },
+    {
+        "name": "HR222",
+        "prop_name": "33",
+        "l": "121.5",
+        "b": "-57.6",
+        "dist_ly": "24.33",
+        "abs_magnitude": "6.38",
+        "classification": "K2V"
+    },
+    {
+        "name": "107 Piscium",
+        "prop_name": "",
+        "l": "138.9",
+        "b": "-41.0",
+        "dist_ly": "24.36",
+        "abs_magnitude": "5.87",
+        "classification": "K1V"
+    },
+    {
+        "name": "Beta Hydri",
+        "prop_name": "",
+        "l": "304.8",
+        "b": "-39.8",
+        "dist_ly": "24.38",
+        "abs_magnitude": "3.45",
+        "classification": "G1IV"
+    },
+    {
+        "name": "Mu Cassiopeiae",
+        "prop_name": "",
+        "l": "125.4",
+        "b": "-7.9",
+        "dist_ly": "24.63",
+        "abs_magnitude": "5.78",
+        "classification": "G5V+M5V"
+    },
+    {
+        "name": "HR8721",
+        "prop_name": "",
+        "l": "15.9",
+        "b": "-64.6",
+        "dist_ly": "24.91",
+        "abs_magnitude": "7.07",
+        "classification": "K4V"
+    },
+    {
+        "name": "Alpha Piscis Austrini",
+        "prop_name": "Fomalhaut",
+        "l": "20.5",
+        "b": "-64.9",
+        "dist_ly": "25.07",
+        "abs_magnitude": "1.72",
+        "classification": "A3V"
+    },
+    {
+        "name": "Alpha Lyrae",
+        "prop_name": "Vega",
+        "l": "67.5",
+        "b": "+19.2",
+        "dist_ly": "25.30",
+        "abs_magnitude": "0.58",
+        "classification": "A0V"
+    },
+    {
+        "name": "Pi\u00b3 Orionis",
+        "prop_name": "Tabit",
+        "l": "191.5",
+        "b": "-23.1",
+        "dist_ly": "26.18",
+        "abs_magnitude": "3.67",
+        "classification": "F6V"
+    },
+    {
+        "name": "Chi Draconis",
+        "prop_name": "",
+        "l": "103.5",
+        "b": "+28.1",
+        "dist_ly": "26.28",
+        "abs_magnitude": "4.02",
+        "classification": "F7V+G?"
+    },
+    {
+        "name": "p Eridani",
+        "prop_name": "",
+        "l": "289.6",
+        "b": "-59.7",
+        "dist_ly": "26.57",
+        "abs_magnitude": "5.52",
+        "classification": "K0V+K2V"
+    },
+    {
+        "name": "Xi Ursae Majoris",
+        "prop_name": "423",
+        "l": "195.1",
+        "b": "+69.3",
+        "dist_ly": "27.2",
+        "abs_magnitude": "4.18",
+        "classification": "G0V+G5V+K?+M?"
+    },
+    {
+        "name": "Beta Canum Venaticorum",
+        "prop_name": "Chara",
+        "l": "136.1",
+        "b": "+75.3",
+        "dist_ly": "27.30",
+        "abs_magnitude": "4.63",
+        "classification": "G0V"
+    },
+    {
+        "name": "Mu Herculis",
+        "prop_name": "",
+        "l": "52.4",
+        "b": "+25.6",
+        "dist_ly": "27.40",
+        "abs_magnitude": "3.81",
+        "classification": "G5IV+M3V+M4V"
+    },
+    {
+        "name": "61 Virginis",
+        "prop_name": "",
+        "l": "311.9",
+        "b": "+44.1",
+        "dist_ly": "27.81",
+        "abs_magnitude": "5.09",
+        "classification": "G6V"
+    },
+    {
+        "name": "Zeta Tucanae",
+        "prop_name": "",
+        "l": "308.3",
+        "b": "-51.9",
+        "dist_ly": "28.03",
+        "abs_magnitude": "4.56",
+        "classification": "G0V"
+    },
+    {
+        "name": "Chi\u00b9 Orionis",
+        "prop_name": "",
+        "l": "188.5",
+        "b": "-2.7",
+        "dist_ly": "28.26",
+        "abs_magnitude": "4.70",
+        "classification": "G0V+M?"
+    },
+    {
+        "name": "HR6416",
+        "prop_name": "",
+        "l": "342.3",
+        "b": "-5.3",
+        "dist_ly": "28.66",
+        "abs_magnitude": "5.75",
+        "classification": "G8V+M0V"
+    },
+    {
+        "name": "HR1614",
+        "prop_name": "",
+        "l": "205.1",
+        "b": "-27.2",
+        "dist_ly": "28.75",
+        "abs_magnitude": "6.49",
+        "classification": "K3V"
+    },
+    {
+        "name": "HR7722",
+        "prop_name": "",
+        "l": "15.6",
+        "b": "-29.4",
+        "dist_ly": "28.78",
+        "abs_magnitude": "6.00",
+        "classification": "K1V"
+    },
+    {
+        "name": "Gamma Leporis",
+        "prop_name": "",
+        "l": "226.8",
+        "b": "-24.3",
+        "dist_ly": "29.25",
+        "abs_magnitude": "3.83",
+        "classification": "F7V+K2V"
+    },
+    {
+        "name": "Delta Eridani",
+        "prop_name": "Rana",
+        "l": "198.1",
+        "b": "-46.0",
+        "dist_ly": "29.50",
+        "abs_magnitude": "3.74",
+        "classification": "K0IV"
+    },
+    {
+        "name": "Beta Comae Berenices",
+        "prop_name": "",
+        "l": "43.5",
+        "b": "+85.4",
+        "dist_ly": "29.86",
+        "abs_magnitude": "4.43",
+        "classification": "G0V"
+    },
+    {
+        "name": "HR4550",
+        "prop_name": "",
+        "l": "168.5",
+        "b": "+73.8",
+        "dist_ly": "29.87",
+        "abs_magnitude": "6.61",
+        "classification": "G8V+M5.5V"
+    },
+    {
+        "name": "Kappa\u00b9 Ceti",
+        "prop_name": "",
+        "l": "178.2",
+        "b": "-43.1",
+        "dist_ly": "29.87",
+        "abs_magnitude": "5.03",
+        "classification": "G5V"
+    },
+    {
+        "name": "Gamma Pavonis",
+        "prop_name": "",
+        "l": "328.2",
+        "b": "-40.3",
+        "dist_ly": "30.06",
+        "abs_magnitude": "4.39",
+        "classification": "F7V"
+    },
+    {
+        "name": "HR4523",
+        "prop_name": "",
+        "l": "289.8",
+        "b": "+20.7",
+        "dist_ly": "30.14",
+        "abs_magnitude": "5.06",
+        "classification": "G5V+M4V"
+    },
+    {
+        "name": "HR4458",
+        "prop_name": "",
+        "l": "284.8",
+        "b": "+27.3",
+        "dist_ly": "31.11",
+        "abs_magnitude": "6.06",
+        "classification": "K0V+DC"
+    },
+    {
+        "name": "61 Ursae Majoris",
+        "prop_name": "",
+        "l": "183.6",
+        "b": "+73.3",
+        "dist_ly": "31.12",
+        "abs_magnitude": "5.41",
+        "classification": "G8V"
+    },
+    {
+        "name": "12 Ophiuchi",
+        "prop_name": "",
+        "l": "13.7",
+        "b": "+28.4",
+        "dist_ly": "31.89",
+        "abs_magnitude": "5.82",
+        "classification": "K0V"
+    },
+    {
+        "name": "HR511",
+        "prop_name": "",
+        "l": "129.1",
+        "b": "+1.7",
+        "dist_ly": "32.54",
+        "abs_magnitude": "5.64",
+        "classification": "K0V"
+    },
+    {
+        "name": "HR5256",
+        "prop_name": "",
+        "l": "109.6",
+        "b": "+53.9",
+        "dist_ly": "32.96",
+        "abs_magnitude": "6.47",
+        "classification": "K3V"
+    },
+    {
+        "name": "Alpha Mensae",
+        "prop_name": "",
+        "l": "285.8",
+        "b": "-28.8",
+        "dist_ly": "33.10",
+        "abs_magnitude": "5.05",
+        "classification": "G5V"
+    },
+    {
+        "name": "Beta Geminorum",
+        "prop_name": "Pollux",
+        "l": "192.2",
+        "b": "+23.4",
+        "dist_ly": "33.72",
+        "abs_magnitude": "1.07",
+        "classification": "K0III"
+    },
+    {
+        "name": "HR857",
+        "prop_name": "",
+        "l": "192.1",
+        "b": "-58.3",
+        "dist_ly": "33.86",
+        "abs_magnitude": "5.97",
+        "classification": "K1V"
+    },
+    {
+        "name": "Iota Persei",
+        "prop_name": "",
+        "l": "144.6",
+        "b": "-7.4",
+        "dist_ly": "34.36",
+        "abs_magnitude": "3.94",
+        "classification": "G0V"
+    },
+    {
+        "name": "HR9038",
+        "prop_name": "",
+        "l": "119.2",
+        "b": "+13.1",
+        "dist_ly": "35.19",
+        "abs_magnitude": "6.19",
+        "classification": "K3V+M2V"
+    },
+    {
+        "name": "Zeta Herculis",
+        "prop_name": "Rutilicus",
+        "l": "52.7",
+        "b": "+40.3",
+        "dist_ly": "35.21",
+        "abs_magnitude": "2.64",
+        "classification": "G0IV+G7V"
+    },
+    {
+        "name": "Delta Trianguli",
+        "prop_name": "",
+        "l": "142.4",
+        "b": "-25.4",
+        "dist_ly": "35.38",
+        "abs_magnitude": "4.66",
+        "classification": "G0V+M5V"
+    },
+    {
+        "name": "Beta Virginis",
+        "prop_name": "Zavijava",
+        "l": "270.5",
+        "b": "+60.8",
+        "dist_ly": "35.55",
+        "abs_magnitude": "3.40",
+        "classification": "F8V"
+    },
+    {
+        "name": "HR637",
+        "prop_name": "",
+        "l": "275.9",
+        "b": "-62.0",
+        "dist_ly": "35.60",
+        "abs_magnitude": "5.93",
+        "classification": "K0V"
+    },
+    {
+        "name": "Beta Leonis",
+        "prop_name": "Denebola",
+        "l": "250.6",
+        "b": "+70.8",
+        "dist_ly": "36.18",
+        "abs_magnitude": "1.92",
+        "classification": "A3V"
+    },
+    {
+        "name": "HR6806",
+        "prop_name": "",
+        "l": "65.3",
+        "b": "+24.2",
+        "dist_ly": "36.20",
+        "abs_magnitude": "6.15",
+        "classification": "K2V"
+    },
+    {
+        "name": "54 Piscium",
+        "prop_name": "",
+        "l": "119.2",
+        "b": "-41.5",
+        "dist_ly": "36.23",
+        "abs_magnitude": "5.65",
+        "classification": "K0V"
+    },
+    {
+        "name": "Gamma Serpentis",
+        "prop_name": "",
+        "l": "27.7",
+        "b": "+45.7",
+        "dist_ly": "36.27",
+        "abs_magnitude": "3.62",
+        "classification": "F6V"
+    },
+    {
+        "name": "11 Leonis Minoris",
+        "prop_name": "",
+        "l": "188.5",
+        "b": "+47.8",
+        "dist_ly": "36.46",
+        "abs_magnitude": "5.16",
+        "classification": "G8V+M5V"
+    },
+    {
+        "name": "Theta Persei",
+        "prop_name": "",
+        "l": "141.2",
+        "b": "-9.6",
+        "dist_ly": "36.63",
+        "abs_magnitude": "3.85",
+        "classification": "F7V+M1V"
+    },
+    {
+        "name": "Alpha Bo\u00f6tis",
+        "prop_name": "Arcturus",
+        "l": "15.1",
+        "b": "+69.1",
+        "dist_ly": "36.71",
+        "abs_magnitude": "-0.31",
+        "classification": "K2III"
+    },
+    {
+        "name": "Eta Bo\u00f6tis",
+        "prop_name": "534",
+        "l": "5.3",
+        "b": "+73.0",
+        "dist_ly": "36.99",
+        "abs_magnitude": "2.41",
+        "classification": "G0IV"
+    },
+    {
+        "name": "HR5553",
+        "prop_name": "567",
+        "l": "23.6",
+        "b": "+60.9",
+        "dist_ly": "37.62",
+        "abs_magnitude": "5.69",
+        "classification": "K1V"
+    },
+    {
+        "name": "Zeta Doradus",
+        "prop_name": "",
+        "l": "266.0",
+        "b": "-36.7",
+        "dist_ly": "38.00",
+        "abs_magnitude": "4.38",
+        "classification": "F7V+K7V"
+    },
+    {
+        "name": "Lambda Serpentis",
+        "prop_name": "",
+        "l": "15.7",
+        "b": "+44.1",
+        "dist_ly": "38.34",
+        "abs_magnitude": "4.07",
+        "classification": "G0V"
+    },
+    {
+        "name": "Iota Pegasi",
+        "prop_name": "",
+        "l": "82.3",
+        "b": "-24.3",
+        "dist_ly": "38.34",
+        "abs_magnitude": "3.42",
+        "classification": "F5V"
+    },
+    {
+        "name": "Delta Capricorni",
+        "prop_name": "Deneb Algedi",
+        "l": "37.6",
+        "b": "-46.0",
+        "dist_ly": "38.56",
+        "abs_magnitude": "2.49",
+        "classification": "A5V"
+    },
+    {
+        "name": "Gamma Virginis",
+        "prop_name": "Porrima",
+        "l": "297.8",
+        "b": "+61.3",
+        "dist_ly": "38.59",
+        "abs_magnitude": "2.38",
+        "classification": "F0V+F0V"
+    },
+    {
+        "name": "Zeta Reticuli",
+        "prop_name": "",
+        "l": "279.0",
+        "b": "-47.2",
+        "dist_ly": "39.46",
+        "abs_magnitude": "4.21",
+        "classification": "G1V+G2V"
+    },
+    {
+        "name": "Zeta Trianguli Australis",
+        "prop_name": "",
+        "l": "319.5",
+        "b": "-14.6",
+        "dist_ly": "39.48",
+        "abs_magnitude": "4.49",
+        "classification": "F9V"
+    },
+    {
+        "name": "HR3384",
+        "prop_name": "",
+        "l": "252.3",
+        "b": "+5.0",
+        "dist_ly": "39.70",
+        "abs_magnitude": "5.95",
+        "classification": "K0V"
+    },
+    {
+        "name": "HR1925",
+        "prop_name": "",
+        "l": "158.4",
+        "b": "+12.0",
+        "dist_ly": "39.93",
+        "abs_magnitude": "5.77",
+        "classification": "K1V+M1V"
+    },
+    {
+        "name": "Beta Trianguli Australis",
+        "prop_name": "",
+        "l": "321.9",
+        "b": "-7.5",
+        "dist_ly": "40.15",
+        "abs_magnitude": "2.38",
+        "classification": "F2IV"
+    },
+    {
+        "name": "85 Pegasi",
+        "prop_name": "",
+        "l": "109.6",
+        "b": "-34.5",
+        "dist_ly": "40.45",
+        "abs_magnitude": "5.33",
+        "classification": "G3V+K6V"
+    },
+    {
+        "name": "Rho\u00b9 Cancri",
+        "prop_name": "",
+        "l": "196.8",
+        "b": "+37.7",
+        "dist_ly": "40.87",
+        "abs_magnitude": "5.47",
+        "classification": "G8V+M3.5V"
+    },
+    {
+        "name": "HR3259",
+        "prop_name": "",
+        "l": "234.6",
+        "b": "+12.8",
+        "dist_ly": "41.04",
+        "abs_magnitude": "5.45",
+        "classification": "G8V"
+    },
+    {
+        "name": "HR483",
+        "prop_name": "",
+        "l": "132.7",
+        "b": "-19.3",
+        "dist_ly": "41.24",
+        "abs_magnitude": "4.45",
+        "classification": "G2V"
+    },
+    {
+        "name": "Lambda Aurigae",
+        "prop_name": "",
+        "l": "167.7",
+        "b": "+1.5",
+        "dist_ly": "41.24",
+        "abs_magnitude": "4.18",
+        "classification": "G0V"
+    },
+    {
+        "name": "HR683",
+        "prop_name": "",
+        "l": "214.5",
+        "b": "-70.4",
+        "dist_ly": "41.35",
+        "abs_magnitude": "5.81",
+        "classification": "G8V"
+    },
+    {
+        "name": "44 Bo\u00f6tis",
+        "prop_name": "",
+        "l": "80.4",
+        "b": "+57.1",
+        "dist_ly": "41.61",
+        "abs_magnitude": "4.30",
+        "classification": "G1V+G2V"
+    },
+    {
+        "name": "HR6518",
+        "prop_name": "",
+        "l": "97.6",
+        "b": "+33.2",
+        "dist_ly": "41.74",
+        "abs_magnitude": "5.90",
+        "classification": "K0V"
+    },
+    {
+        "name": "36 Ursae Majoris",
+        "prop_name": "",
+        "l": "154.3",
+        "b": "+51.7",
+        "dist_ly": "41.91",
+        "abs_magnitude": "4.28",
+        "classification": "F8V+K7V"
+    },
+    {
+        "name": "HR6094",
+        "prop_name": "",
+        "l": "341.6",
+        "b": "+7.2",
+        "dist_ly": "41.98",
+        "abs_magnitude": "4.82",
+        "classification": "G3V+DA2"
+    },
+    {
+        "name": "HR4587",
+        "prop_name": "",
+        "l": "283.1",
+        "b": "+50.5",
+        "dist_ly": "42.10",
+        "abs_magnitude": "4.99",
+        "classification": "K0IV"
+    },
+    {
+        "name": "Alpha Aurigae",
+        "prop_name": "Capella",
+        "l": "162.6",
+        "b": "+4.6",
+        "dist_ly": "42.20",
+        "abs_magnitude": "-0.49",
+        "classification": "G5III+G0III+M2V+M4V"
+    },
+    {
+        "name": "HR6998",
+        "prop_name": "",
+        "l": "12.7",
+        "b": "-6.8",
+        "dist_ly": "42.35",
+        "abs_magnitude": "5.28",
+        "classification": "G5V"
+    },
+    {
+        "name": "58 Eridani",
+        "prop_name": "",
+        "l": "215.4",
+        "b": "-34.8",
+        "dist_ly": "43.43",
+        "abs_magnitude": "4.87",
+        "classification": "G3V"
+    },
+    {
+        "name": "Upsilon Andromedae",
+        "prop_name": "",
+        "l": "132.0",
+        "b": "-20.7",
+        "dist_ly": "43.93",
+        "abs_magnitude": "3.45",
+        "classification": "F8V+M4.5V"
+    },
+    {
+        "name": "Theta Ursae Majoris",
+        "prop_name": "Al Haud",
+        "l": "165.5",
+        "b": "+45.7",
+        "dist_ly": "43.99",
+        "abs_magnitude": "2.52",
+        "classification": "F6IV+M?"
+    },
+    {
+        "name": "HR8501",
+        "prop_name": "",
+        "l": "339.0",
+        "b": "-51.4",
+        "dist_ly": "44.39",
+        "abs_magnitude": "4.69",
+        "classification": "G1V+M?"
+    },
+    {
+        "name": "HR8",
+        "prop_name": "",
+        "l": "111.3",
+        "b": "-32.8",
+        "dist_ly": "44.69",
+        "abs_magnitude": "5.39",
+        "classification": "G8V"
+    },
+    {
+        "name": "Beta Aquilae",
+        "prop_name": "Alshain",
+        "l": "46.1",
+        "b": "-11.1",
+        "dist_ly": "44.71",
+        "abs_magnitude": "3.03",
+        "classification": "G8IV+M3V"
+    },
+    {
+        "name": "10 Tauri",
+        "prop_name": "",
+        "l": "185.1",
+        "b": "-41.7",
+        "dist_ly": "44.75",
+        "abs_magnitude": "3.60",
+        "classification": "F8V"
+    },
+    {
+        "name": "Iota Piscium",
+        "prop_name": "",
+        "l": "92.5",
+        "b": "-53.0",
+        "dist_ly": "44.98",
+        "abs_magnitude": "3.43",
+        "classification": "F7V"
+    },
+    {
+        "name": "Gamma Cephei",
+        "prop_name": "Errai",
+        "l": "119.0",
+        "b": "+15.3",
+        "dist_ly": "44.99",
+        "abs_magnitude": "2.51",
+        "classification": "K1IV+M?"
+    },
+    {
+        "name": "Tau\u00b9 Eridani",
+        "prop_name": "",
+        "l": "200.8",
+        "b": "-62.5",
+        "dist_ly": "45.58",
+        "abs_magnitude": "3.74",
+        "classification": "F6V"
+    },
+    {
+        "name": "18 Scorpii",
+        "prop_name": "",
+        "l": "4.7",
+        "b": "+29.2",
+        "dist_ly": "45.74",
+        "abs_magnitude": "4.76",
+        "classification": "G1V"
+    },
+    {
+        "name": "47 Ursae Majoris",
+        "prop_name": "",
+        "l": "175.8",
+        "b": "+63.4",
+        "dist_ly": "45.91",
+        "abs_magnitude": "4.29",
+        "classification": "G0V"
+    },
+    {
+        "name": "26 Draconis",
+        "prop_name": "",
+        "l": "91.0",
+        "b": "+32.7",
+        "dist_ly": "45.95",
+        "abs_magnitude": "4.49",
+        "classification": "G1V+K3V+M1V"
+    },
+    {
+        "name": "Alpha Fornacis",
+        "prop_name": "Fornacis ",
+        "l": "224.7",
+        "b": "-59.0",
+        "dist_ly": "46.03",
+        "abs_magnitude": "3.05",
+        "classification": "F7IV+G7V"
+    },
+    {
+        "name": "HR7578",
+        "prop_name": "",
+        "l": "17.2",
+        "b": "-23.9",
+        "dist_ly": "46.37",
+        "abs_magnitude": "5.46",
+        "classification": "K3V"
+    },
+    {
+        "name": "Pi\u00b9 Ursae Majoris",
+        "prop_name": "311",
+        "l": "150.6",
+        "b": "+35.7",
+        "dist_ly": "46.55",
+        "abs_magnitude": "4.86",
+        "classification": "G1V"
+    },
+    {
+        "name": "Alpha Ophiuchi",
+        "prop_name": "Rasalhague",
+        "l": "35.9",
+        "b": "+22.6",
+        "dist_ly": "46.70",
+        "abs_magnitude": "1.30",
+        "classification": "A5III-IV"
+    },
+    {
+        "name": "Eta Cephei",
+        "prop_name": "",
+        "l": "97.9",
+        "b": "+11.6",
+        "dist_ly": "46.77",
+        "abs_magnitude": "2.63",
+        "classification": "K0IV"
+    },
+    {
+        "name": "72 Herculis",
+        "prop_name": "",
+        "l": "55.9",
+        "b": "+32.3",
+        "dist_ly": "46.94",
+        "abs_magnitude": "4.59",
+        "classification": "G1V"
+    },
+    {
+        "name": "Nu\u00b2",
+        "prop_name": "Gl 582",
+        "l": "19",
+        "b": "327.1",
+        "dist_ly": "68.70",
+        "abs_magnitude": "5.65",
+        "classification": "+7.4"
+    },
+    {
+        "name": "Theta Bo\u00f6tis",
+        "prop_name": "Asellus Primus",
+        "l": "93.8",
+        "b": "+59.7",
+        "dist_ly": "47.52",
+        "abs_magnitude": "3.22",
+        "classification": "F7V+M3V"
+    },
+    {
+        "name": "Iota Ursae Majoris",
+        "prop_name": "Talita",
+        "l": "171.5",
+        "b": "+40.8",
+        "dist_ly": "47.74",
+        "abs_magnitude": "2.29",
+        "classification": "A7V+M1V+M?"
+    },
+    {
+        "name": "HR7898",
+        "prop_name": "",
+        "l": "21.3",
+        "b": "-33.8",
+        "dist_ly": "47.77",
+        "abs_magnitude": "5.53",
+        "classification": "G8V"
+    },
+    {
+        "name": "111 Tauri",
+        "prop_name": "",
+        "l": "187.2",
+        "b": "-10.3",
+        "dist_ly": "47.83",
+        "abs_magnitude": "4.17",
+        "classification": "F8V+K4V+K5V"
+    },
+    {
+        "name": "Psi Serpentis",
+        "prop_name": "",
+        "l": "9.7",
+        "b": "+42.0",
+        "dist_ly": "47.85",
+        "abs_magnitude": "5.03",
+        "classification": "G5V+M?"
+    },
+    {
+        "name": "Psi Capricorni",
+        "prop_name": "",
+        "l": "20.0",
+        "b": "-35.5",
+        "dist_ly": "47.85",
+        "abs_magnitude": "3.30",
+        "classification": "F5V"
+    },
+    {
+        "name": "Alpha Corvi",
+        "prop_name": "Alchibah",
+        "l": "290.6",
+        "b": "+37.1",
+        "dist_ly": "48.17",
+        "abs_magnitude": "3.17",
+        "classification": "F2V"
+    },
+    {
+        "name": "I Hydrae",
+        "prop_name": "",
+        "l": "256.7",
+        "b": "+21.5",
+        "dist_ly": "48.54",
+        "abs_magnitude": "4.07",
+        "classification": "G0V"
+    },
+    {
+        "name": "20 Leonis Minoris",
+        "prop_name": "",
+        "l": "195.0",
+        "b": "+52.9",
+        "dist_ly": "48.58",
+        "abs_magnitude": "4.50",
+        "classification": "G2V"
+    },
+    {
+        "name": "HR209",
+        "prop_name": "",
+        "l": "305.7",
+        "b": "-69.6",
+        "dist_ly": "48.74",
+        "abs_magnitude": "4.93",
+        "classification": "G5V"
+    },
+    {
+        "name": "Alpha Cephei",
+        "prop_name": "Alderamin",
+        "l": "101.0",
+        "b": "+9.2",
+        "dist_ly": "48.80",
+        "abs_magnitude": "1.58",
+        "classification": "A7IV-V"
+    },
+    {
+        "name": "HR7162",
+        "prop_name": "",
+        "l": "63.4",
+        "b": "+13.3",
+        "dist_ly": "48.86",
+        "abs_magnitude": "4.32",
+        "classification": "G0V+K1V"
+    },
+    {
+        "name": "Eta Leporis",
+        "prop_name": "",
+        "l": "219.8",
+        "b": "-18.5",
+        "dist_ly": "49.07",
+        "abs_magnitude": "2.82",
+        "classification": "F0V"
+    },
+    {
+        "name": "Nu Phoenicis",
+        "prop_name": "",
+        "l": "290.1",
+        "b": "-71.0",
+        "dist_ly": "49.10",
+        "abs_magnitude": "4.08",
+        "classification": "F8V"
+    },
+    {
+        "name": "19 Draconis",
+        "prop_name": "",
+        "l": "95.7",
+        "b": "+36.5",
+        "dist_ly": "49.21",
+        "abs_magnitude": "3.99",
+        "classification": "F6V"
+    },
+    {
+        "name": "31 Aquilae",
+        "prop_name": "",
+        "l": "47.4",
+        "b": "-1.9",
+        "dist_ly": "49.41",
+        "abs_magnitude": "4.27",
+        "classification": "G8IV"
+    },
+    {
+        "name": "HR3018",
+        "prop_name": "",
+        "l": "249.1",
+        "b": "-4.8",
+        "dist_ly": "49.58",
+        "abs_magnitude": "4.45",
+        "classification": "G0V+DC"
+    },
+    {
+        "name": "HR5864",
+        "prop_name": "",
+        "l": "337.2",
+        "b": "+13.0",
+        "dist_ly": "49.72",
+        "abs_magnitude": "5.09",
+        "classification": "G6V+DA7"
+    },
+    {
+        "name": "Mu Arae",
+        "prop_name": "",
+        "l": "340.1",
+        "b": "-11.5",
+        "dist_ly": "49.83",
+        "abs_magnitude": "4.23",
+        "classification": "G5V"
+    }
+]
