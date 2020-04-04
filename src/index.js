@@ -1,20 +1,26 @@
 const THREE = require('three');
 const OrbitControls = require('three-orbitcontrols')
 
+
+$ = require('jquery')
+
 var camera, scene, renderer, controls;
 
-init();
-animate();
+$.getJSON('/static/result.json', function (data) {
+    init(data);
+    animate();
+})
 
-function init() {
-    camera = new THREE.PerspectiveCamera(70, window.innerWidth / window.innerHeight, 0.01, 100);
-    camera.position.z = 0.5;
-    camera.position.y = 0.5;
-    camera.position.x = 0.5;
+
+function init(data) {
+    camera = new THREE.PerspectiveCamera(70, window.innerWidth / window.innerHeight, 0.01, 1000);
+    camera.position.z = 25;
+    camera.position.y = 25;
+    camera.position.x = 25;
 
     scene = new THREE.Scene();
 
-    createStars()
+    createStars(data)
 
     renderer = new THREE.WebGLRenderer({ antialias: true });
     renderer.setSize(window.innerWidth, window.innerHeight);
@@ -28,50 +34,44 @@ function init() {
 
 }
 
-function createStars() {
-    var geometry = new THREE.SphereBufferGeometry(0.01, 16, 16);
-    var loader = new THREE.TextureLoader();
-    var texture = loader.load('/static/textures/2k_sun.jpg')
-
-    var material = new THREE.MeshBasicMaterial({ map: texture });
+function createStars(data) {
 
     group = new THREE.Group();
 
-    for (var i = 0; i < 133; i++) {
+    for (props of data) {
 
-        var mesh = new THREE.Mesh(geometry, material, );
-        mesh.position.x = Math.random() - 0.5;
-        mesh.position.y = Math.random() - 0.5;
-        mesh.position.z = Math.random() - 0.5;
+        var starSize = parseFloat(props.solar_size) / 25
+        var geometry = new THREE.SphereBufferGeometry(starSize, 16, 16);
+        var loader = new THREE.TextureLoader();
+        var texture = loader.load('/static/textures/' + props.texture)
 
+        var material = new THREE.MeshBasicMaterial({ map: texture });
+
+        console.log(props)
+
+        if (props.l == "-" && props.b == "-") {
+            props.l = 0;
+            props.b = 0;
+        }
+
+        var mesh = new THREE.Mesh(geometry, material);
+
+        sph = new THREE.Spherical(
+            parseFloat(props.dist_ly),
+            parseFloat(props.l) * Math.PI / 180,
+            parseFloat(props.b) * Math.PI / 180
+        )
+        cart = new THREE.Vector3()
+        cart.setFromSpherical(sph)
+
+        mesh.position.x = cart.x;
+        mesh.position.y = cart.y;
+        mesh.position.z = cart.z;
 
         mesh.matrixAutoUpdate = false;
         mesh.updateMatrix();
 
         group.add(mesh);
-
-        var customMaterial = new THREE.ShaderMaterial( 
-            {
-                uniforms: 
-                { 
-                    "c":   { type: "f", value: 0 },
-                    "p":   { type: "f", value: 6 },
-                    glowColor: { type: "c", value: new THREE.Color(0xffff00) },
-                    viewVector: { type: "v3", value: camera.position }
-                },
-                vertexShader:   document.getElementById( 'vertexShader'   ).textContent,
-                fragmentShader: document.getElementById( 'fragmentShader' ).textContent,
-                side: THREE.FrontSide,
-                blending: THREE.AdditiveBlending,
-                transparent: true
-            }   );
-                
-        var starGlow = new THREE.Mesh( geometry.clone(), customMaterial.clone() );
-        starGlow.position.x = mesh.position.x;
-        starGlow.position.y = mesh.position.y;
-        starGlow.position.z = mesh.position.z;
-        starGlow.scale.multiplyScalar(1.2);
-        group.add(starGlow);
 
     }
 

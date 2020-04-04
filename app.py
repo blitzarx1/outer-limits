@@ -1,15 +1,17 @@
-from uvicorn import run
-from fastapi import FastAPI
-from fastapi.responses import FileResponse
-from fastapi.staticfiles import StaticFiles
+import json
 
-app = FastAPI()
+import fastapi
+import fastapi.responses as responses
+import fastapi.staticfiles as staticfiles
+import uvicorn
 
-app.mount("/static", StaticFiles(directory="static"), name="static")
+app = fastapi.FastAPI()
+
+app.mount("/static", staticfiles.StaticFiles(directory="static"), name="static")
 
 @app.get('/')
 def index():
-  return FileResponse('static/index.html')
+  return responses.FileResponse('static/index.html')
 
 if __name__ == "__main__":
-    run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8000)

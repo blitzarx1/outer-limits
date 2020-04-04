@@ -6,8 +6,9 @@
     <title>Star Map</title>
 </head>
 <link rel="stylesheet" href="static/index.css">
+
 <body>
-    <script id="vertexShader" type="x-shader/x-vertex">
+    <!-- <script id="vertexShader" type="x-shader/x-vertex">
         uniform vec3 viewVector;
         uniform float c;
         uniform float p;
@@ -21,7 +22,7 @@
             gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );
         }
     </script>
-    <script id="fragmentShader" type="x-shader/x-vertex"> 
+    <script id="fragmentShader" type="x-shader/x-vertex">
         uniform vec3 glowColor;
         varying float intensity;
         void main() 
@@ -29,7 +30,8 @@
             vec3 glow = glowColor * intensity;
             gl_FragColor = vec4( glow, 1.0 );
         }
-        </script>
-        <script src="static/bundle.js"></script>
+        </script> -->
+    <script src="static/bundle.js"></script>
 </body>
+
 </html>

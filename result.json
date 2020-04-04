@@ -6,7 +6,9 @@
         "b": "-",
         "dist_ly": "0.00",
         "abs_magnitude": "4.83",
-        "classification": "G2V"
+        "classification": "G2V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Alpha Centauri",
@@ -15,7 +17,9 @@
         "b": "-0.7",
         "dist_ly": "4.39",
         "abs_magnitude": "4.06",
-        "classification": "G2V+K1V+M5.5V"
+        "classification": "G2V+K1V+M5.5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Alpha Canis Majoris",
@@ -24,7 +28,9 @@
         "b": "-8.9",
         "dist_ly": "8.60",
         "abs_magnitude": "1.43",
-        "classification": "A1V+DA2"
+        "classification": "A1V+DA2",
+        "texture": "white_sun.jpg",
+        "solar_size": "6.5"
     },
     {
         "name": "Epsilon Eridani",
@@ -33,7 +39,9 @@
         "b": "-48.1",
         "dist_ly": "10.50",
         "abs_magnitude": "6.18",
-        "classification": "K2V"
+        "classification": "K2V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Alpha Canis Minoris",
@@ -42,7 +50,9 @@
         "b": "+13.0",
         "dist_ly": "11.41",
         "abs_magnitude": "2.64",
-        "classification": "F5IV-V+DA"
+        "classification": "F5IV-V+DA",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.3"
     },
     {
         "name": "61 Cygni",
@@ -51,7 +61,9 @@
         "b": "-5.8",
         "dist_ly": "11.43",
         "abs_magnitude": "7.07",
-        "classification": "K5V+K7V"
+        "classification": "K5V+K7V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.7"
     },
     {
         "name": "Epsilon Indi",
@@ -60,7 +72,9 @@
         "b": "-48.0",
         "dist_ly": "11.83",
         "abs_magnitude": "6.89",
-        "classification": "K4V+T1+T6"
+        "classification": "K4V+T1+T6",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.8"
     },
     {
         "name": "Tau Ceti",
@@ -69,7 +83,9 @@
         "b": "-73.4",
         "dist_ly": "11.90",
         "abs_magnitude": "5.68",
-        "classification": "G8V"
+        "classification": "G8V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "Omicron\u00b2 Eridani",
@@ -78,7 +94,9 @@
         "b": "-38.1",
         "dist_ly": "16.45",
         "abs_magnitude": "5.92",
-        "classification": "K1V+DA4+M4.5V"
+        "classification": "K1V+DA4+M4.5V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "70 Ophiuchi",
@@ -87,7 +105,9 @@
         "b": "+11.4",
         "dist_ly": "16.59",
         "abs_magnitude": "5.50",
-        "classification": "K0V+K5V"
+        "classification": "K0V+K5V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Alpha Aquilae",
@@ -96,7 +116,9 @@
         "b": "-8.9",
         "dist_ly": "16.77",
         "abs_magnitude": "2.21",
-        "classification": "A7V"
+        "classification": "A7V",
+        "texture": "white_sun.jpg",
+        "solar_size": "1.8"
     },
     {
         "name": "Sigma Draconis",
@@ -105,7 +127,9 @@
         "b": "+21.9",
         "dist_ly": "18.81",
         "abs_magnitude": "5.87",
-        "classification": "K0V"
+        "classification": "K0V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR5568",
@@ -114,7 +138,9 @@
         "b": "+32.7",
         "dist_ly": "19.26",
         "abs_magnitude": "6.86",
-        "classification": "K5V+M1V+M3V+T8"
+        "classification": "K5V+M1V+M3V+T8",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.7"
     },
     {
         "name": "Eta Cassiopeiae",
@@ -123,7 +149,9 @@
         "b": "-5.1",
         "dist_ly": "19.42",
         "abs_magnitude": "4.59",
-        "classification": "G0V+K7V"
+        "classification": "G0V+K7V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "36 Ophiuchi",
@@ -132,7 +160,9 @@
         "b": "+6.9",
         "dist_ly": "19.52",
         "abs_magnitude": "5.46",
-        "classification": "K1V+K1V+K5V"
+        "classification": "K1V+K1V+K5V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR7703",
@@ -141,7 +171,9 @@
         "b": "-30.9",
         "dist_ly": "19.74",
         "abs_magnitude": "6.41",
-        "classification": "K3V+M3.5V"
+        "classification": "K3V+M3.5V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.6"
     },
     {
         "name": "82 Eridani",
@@ -150,7 +182,9 @@
         "b": "-56.1",
         "dist_ly": "19.76",
         "abs_magnitude": "5.35",
-        "classification": "G5V"
+        "classification": "G5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Delta Pavonis",
@@ -159,7 +193,9 @@
         "b": "-32.4",
         "dist_ly": "19.92",
         "abs_magnitude": "4.62",
-        "classification": "G5IV-V"
+        "classification": "G5IV-V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR8832",
@@ -168,7 +204,9 @@
         "b": "-3.2",
         "dist_ly": "21.28",
         "abs_magnitude": "6.50",
-        "classification": "K3V"
+        "classification": "K3V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.6"
     },
     {
         "name": "Xi Bo\u00f6tis",
@@ -177,7 +215,9 @@
         "b": "+61.4",
         "dist_ly": "21.85",
         "abs_magnitude": "5.41",
-        "classification": "G8V+K4V"
+        "classification": "G8V+K4V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "HR753",
@@ -186,7 +226,9 @@
         "b": "-47.6",
         "dist_ly": "23.51",
         "abs_magnitude": "6.50",
-        "classification": "K3V+M4.5V"
+        "classification": "K3V+M4.5V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.6"
     },
     {
         "name": "HR6426",
@@ -195,7 +237,9 @@
         "b": "+1.4",
         "dist_ly": "23.6",
         "abs_magnitude": "6.61",
-        "classification": "K3V+K5V+M2.5V"
+        "classification": "K3V+K5V+M2.5V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.6"
     },
     {
         "name": "HR222",
@@ -204,7 +248,9 @@
         "b": "-57.6",
         "dist_ly": "24.33",
         "abs_magnitude": "6.38",
-        "classification": "K2V"
+        "classification": "K2V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "107 Piscium",
@@ -213,7 +259,9 @@
         "b": "-41.0",
         "dist_ly": "24.36",
         "abs_magnitude": "5.87",
-        "classification": "K1V"
+        "classification": "K1V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Beta Hydri",
@@ -222,7 +270,9 @@
         "b": "-39.8",
         "dist_ly": "24.38",
         "abs_magnitude": "3.45",
-        "classification": "G1IV"
+        "classification": "G1IV",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Mu Cassiopeiae",
@@ -231,7 +281,9 @@
         "b": "-7.9",
         "dist_ly": "24.63",
         "abs_magnitude": "5.78",
-        "classification": "G5V+M5V"
+        "classification": "G5V+M5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR8721",
@@ -240,7 +292,9 @@
         "b": "-64.6",
         "dist_ly": "24.91",
         "abs_magnitude": "7.07",
-        "classification": "K4V"
+        "classification": "K4V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.8"
     },
     {
         "name": "Alpha Piscis Austrini",
@@ -249,7 +303,9 @@
         "b": "-64.9",
         "dist_ly": "25.07",
         "abs_magnitude": "1.72",
-        "classification": "A3V"
+        "classification": "A3V",
+        "texture": "white_sun.jpg",
+        "solar_size": "6"
     },
     {
         "name": "Alpha Lyrae",
@@ -258,7 +314,9 @@
         "b": "+19.2",
         "dist_ly": "25.30",
         "abs_magnitude": "0.58",
-        "classification": "A0V"
+        "classification": "A0V",
+        "texture": "white_sun.jpg",
+        "solar_size": "7"
     },
     {
         "name": "Pi\u00b3 Orionis",
@@ -267,7 +325,9 @@
         "b": "-23.1",
         "dist_ly": "26.18",
         "abs_magnitude": "3.67",
-        "classification": "F6V"
+        "classification": "F6V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.3"
     },
     {
         "name": "Chi Draconis",
@@ -276,7 +336,9 @@
         "b": "+28.1",
         "dist_ly": "26.28",
         "abs_magnitude": "4.02",
-        "classification": "F7V+G?"
+        "classification": "F7V+G?",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "p Eridani",
@@ -285,7 +347,9 @@
         "b": "-59.7",
         "dist_ly": "26.57",
         "abs_magnitude": "5.52",
-        "classification": "K0V+K2V"
+        "classification": "K0V+K2V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Xi Ursae Majoris",
@@ -294,7 +358,9 @@
         "b": "+69.3",
         "dist_ly": "27.2",
         "abs_magnitude": "4.18",
-        "classification": "G0V+G5V+K?+M?"
+        "classification": "G0V+G5V+K?+M?",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Beta Canum Venaticorum",
@@ -303,7 +369,9 @@
         "b": "+75.3",
         "dist_ly": "27.30",
         "abs_magnitude": "4.63",
-        "classification": "G0V"
+        "classification": "G0V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Mu Herculis",
@@ -312,7 +380,9 @@
         "b": "+25.6",
         "dist_ly": "27.40",
         "abs_magnitude": "3.81",
-        "classification": "G5IV+M3V+M4V"
+        "classification": "G5IV+M3V+M4V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "61 Virginis",
@@ -321,7 +391,9 @@
         "b": "+44.1",
         "dist_ly": "27.81",
         "abs_magnitude": "5.09",
-        "classification": "G6V"
+        "classification": "G6V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Zeta Tucanae",
@@ -330,7 +402,9 @@
         "b": "-51.9",
         "dist_ly": "28.03",
         "abs_magnitude": "4.56",
-        "classification": "G0V"
+        "classification": "G0V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Chi\u00b9 Orionis",
@@ -339,7 +413,9 @@
         "b": "-2.7",
         "dist_ly": "28.26",
         "abs_magnitude": "4.70",
-        "classification": "G0V+M?"
+        "classification": "G0V+M?",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "HR6416",
@@ -348,7 +424,9 @@
         "b": "-5.3",
         "dist_ly": "28.66",
         "abs_magnitude": "5.75",
-        "classification": "G8V+M0V"
+        "classification": "G8V+M0V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "HR1614",
@@ -357,7 +435,9 @@
         "b": "-27.2",
         "dist_ly": "28.75",
         "abs_magnitude": "6.49",
-        "classification": "K3V"
+        "classification": "K3V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.6"
     },
     {
         "name": "HR7722",
@@ -366,7 +446,9 @@
         "b": "-29.4",
         "dist_ly": "28.78",
         "abs_magnitude": "6.00",
-        "classification": "K1V"
+        "classification": "K1V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Gamma Leporis",
@@ -375,7 +457,9 @@
         "b": "-24.3",
         "dist_ly": "29.25",
         "abs_magnitude": "3.83",
-        "classification": "F7V+K2V"
+        "classification": "F7V+K2V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Delta Eridani",
@@ -384,7 +468,9 @@
         "b": "-46.0",
         "dist_ly": "29.50",
         "abs_magnitude": "3.74",
-        "classification": "K0IV"
+        "classification": "K0IV",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Beta Comae Berenices",
@@ -393,7 +479,9 @@
         "b": "+85.4",
         "dist_ly": "29.86",
         "abs_magnitude": "4.43",
-        "classification": "G0V"
+        "classification": "G0V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "HR4550",
@@ -402,7 +490,9 @@
         "b": "+73.8",
         "dist_ly": "29.87",
         "abs_magnitude": "6.61",
-        "classification": "G8V+M5.5V"
+        "classification": "G8V+M5.5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "Kappa\u00b9 Ceti",
@@ -411,7 +501,9 @@
         "b": "-43.1",
         "dist_ly": "29.87",
         "abs_magnitude": "5.03",
-        "classification": "G5V"
+        "classification": "G5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Gamma Pavonis",
@@ -420,7 +512,9 @@
         "b": "-40.3",
         "dist_ly": "30.06",
         "abs_magnitude": "4.39",
-        "classification": "F7V"
+        "classification": "F7V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "HR4523",
@@ -429,7 +523,9 @@
         "b": "+20.7",
         "dist_ly": "30.14",
         "abs_magnitude": "5.06",
-        "classification": "G5V+M4V"
+        "classification": "G5V+M4V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR4458",
@@ -438,7 +534,9 @@
         "b": "+27.3",
         "dist_ly": "31.11",
         "abs_magnitude": "6.06",
-        "classification": "K0V+DC"
+        "classification": "K0V+DC",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "61 Ursae Majoris",
@@ -447,7 +545,9 @@
         "b": "+73.3",
         "dist_ly": "31.12",
         "abs_magnitude": "5.41",
-        "classification": "G8V"
+        "classification": "G8V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "12 Ophiuchi",
@@ -456,7 +556,9 @@
         "b": "+28.4",
         "dist_ly": "31.89",
         "abs_magnitude": "5.82",
-        "classification": "K0V"
+        "classification": "K0V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR511",
@@ -465,7 +567,9 @@
         "b": "+1.7",
         "dist_ly": "32.54",
         "abs_magnitude": "5.64",
-        "classification": "K0V"
+        "classification": "K0V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR5256",
@@ -474,7 +578,9 @@
         "b": "+53.9",
         "dist_ly": "32.96",
         "abs_magnitude": "6.47",
-        "classification": "K3V"
+        "classification": "K3V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.6"
     },
     {
         "name": "Alpha Mensae",
@@ -483,7 +589,9 @@
         "b": "-28.8",
         "dist_ly": "33.10",
         "abs_magnitude": "5.05",
-        "classification": "G5V"
+        "classification": "G5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Beta Geminorum",
@@ -492,7 +600,9 @@
         "b": "+23.4",
         "dist_ly": "33.72",
         "abs_magnitude": "1.07",
-        "classification": "K0III"
+        "classification": "K0III",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR857",
@@ -501,7 +611,9 @@
         "b": "-58.3",
         "dist_ly": "33.86",
         "abs_magnitude": "5.97",
-        "classification": "K1V"
+        "classification": "K1V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Iota Persei",
@@ -510,7 +622,9 @@
         "b": "-7.4",
         "dist_ly": "34.36",
         "abs_magnitude": "3.94",
-        "classification": "G0V"
+        "classification": "G0V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "HR9038",
@@ -519,7 +633,9 @@
         "b": "+13.1",
         "dist_ly": "35.19",
         "abs_magnitude": "6.19",
-        "classification": "K3V+M2V"
+        "classification": "K3V+M2V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.6"
     },
     {
         "name": "Zeta Herculis",
@@ -528,7 +644,9 @@
         "b": "+40.3",
         "dist_ly": "35.21",
         "abs_magnitude": "2.64",
-        "classification": "G0IV+G7V"
+        "classification": "G0IV+G7V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Delta Trianguli",
@@ -537,7 +655,9 @@
         "b": "-25.4",
         "dist_ly": "35.38",
         "abs_magnitude": "4.66",
-        "classification": "G0V+M5V"
+        "classification": "G0V+M5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Beta Virginis",
@@ -546,7 +666,9 @@
         "b": "+60.8",
         "dist_ly": "35.55",
         "abs_magnitude": "3.40",
-        "classification": "F8V"
+        "classification": "F8V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR637",
@@ -555,7 +677,9 @@
         "b": "-62.0",
         "dist_ly": "35.60",
         "abs_magnitude": "5.93",
-        "classification": "K0V"
+        "classification": "K0V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Beta Leonis",
@@ -564,7 +688,9 @@
         "b": "+70.8",
         "dist_ly": "36.18",
         "abs_magnitude": "1.92",
-        "classification": "A3V"
+        "classification": "A3V",
+        "texture": "white_sun.jpg",
+        "solar_size": "6"
     },
     {
         "name": "HR6806",
@@ -573,7 +699,9 @@
         "b": "+24.2",
         "dist_ly": "36.20",
         "abs_magnitude": "6.15",
-        "classification": "K2V"
+        "classification": "K2V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "54 Piscium",
@@ -582,7 +710,9 @@
         "b": "-41.5",
         "dist_ly": "36.23",
         "abs_magnitude": "5.65",
-        "classification": "K0V"
+        "classification": "K0V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Gamma Serpentis",
@@ -591,7 +721,9 @@
         "b": "+45.7",
         "dist_ly": "36.27",
         "abs_magnitude": "3.62",
-        "classification": "F6V"
+        "classification": "F6V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.3"
     },
     {
         "name": "11 Leonis Minoris",
@@ -600,7 +732,9 @@
         "b": "+47.8",
         "dist_ly": "36.46",
         "abs_magnitude": "5.16",
-        "classification": "G8V+M5V"
+        "classification": "G8V+M5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "Theta Persei",
@@ -609,7 +743,9 @@
         "b": "-9.6",
         "dist_ly": "36.63",
         "abs_magnitude": "3.85",
-        "classification": "F7V+M1V"
+        "classification": "F7V+M1V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Alpha Bo\u00f6tis",
@@ -618,7 +754,9 @@
         "b": "+69.1",
         "dist_ly": "36.71",
         "abs_magnitude": "-0.31",
-        "classification": "K2III"
+        "classification": "K2III",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Eta Bo\u00f6tis",
@@ -627,7 +765,9 @@
         "b": "+73.0",
         "dist_ly": "36.99",
         "abs_magnitude": "2.41",
-        "classification": "G0IV"
+        "classification": "G0IV",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "HR5553",
@@ -636,7 +776,9 @@
         "b": "+60.9",
         "dist_ly": "37.62",
         "abs_magnitude": "5.69",
-        "classification": "K1V"
+        "classification": "K1V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Zeta Doradus",
@@ -645,7 +787,9 @@
         "b": "-36.7",
         "dist_ly": "38.00",
         "abs_magnitude": "4.38",
-        "classification": "F7V+K7V"
+        "classification": "F7V+K7V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Lambda Serpentis",
@@ -654,7 +798,9 @@
         "b": "+44.1",
         "dist_ly": "38.34",
         "abs_magnitude": "4.07",
-        "classification": "G0V"
+        "classification": "G0V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Iota Pegasi",
@@ -663,7 +809,9 @@
         "b": "-24.3",
         "dist_ly": "38.34",
         "abs_magnitude": "3.42",
-        "classification": "F5V"
+        "classification": "F5V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.3"
     },
     {
         "name": "Delta Capricorni",
@@ -672,7 +820,9 @@
         "b": "-46.0",
         "dist_ly": "38.56",
         "abs_magnitude": "2.49",
-        "classification": "A5V"
+        "classification": "A5V",
+        "texture": "white_sun.jpg",
+        "solar_size": "2.1"
     },
     {
         "name": "Gamma Virginis",
@@ -681,7 +831,9 @@
         "b": "+61.3",
         "dist_ly": "38.59",
         "abs_magnitude": "2.38",
-        "classification": "F0V+F0V"
+        "classification": "F0V+F0V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "2"
     },
     {
         "name": "Zeta Reticuli",
@@ -690,7 +842,9 @@
         "b": "-47.2",
         "dist_ly": "39.46",
         "abs_magnitude": "4.21",
-        "classification": "G1V+G2V"
+        "classification": "G1V+G2V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Zeta Trianguli Australis",
@@ -699,7 +853,9 @@
         "b": "-14.6",
         "dist_ly": "39.48",
         "abs_magnitude": "4.49",
-        "classification": "F9V"
+        "classification": "F9V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR3384",
@@ -708,7 +864,9 @@
         "b": "+5.0",
         "dist_ly": "39.70",
         "abs_magnitude": "5.95",
-        "classification": "K0V"
+        "classification": "K0V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR1925",
@@ -717,7 +875,9 @@
         "b": "+12.0",
         "dist_ly": "39.93",
         "abs_magnitude": "5.77",
-        "classification": "K1V+M1V"
+        "classification": "K1V+M1V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Beta Trianguli Australis",
@@ -726,7 +886,9 @@
         "b": "-7.5",
         "dist_ly": "40.15",
         "abs_magnitude": "2.38",
-        "classification": "F2IV"
+        "classification": "F2IV",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "2"
     },
     {
         "name": "85 Pegasi",
@@ -735,7 +897,9 @@
         "b": "-34.5",
         "dist_ly": "40.45",
         "abs_magnitude": "5.33",
-        "classification": "G3V+K6V"
+        "classification": "G3V+K6V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Rho\u00b9 Cancri",
@@ -744,7 +908,9 @@
         "b": "+37.7",
         "dist_ly": "40.87",
         "abs_magnitude": "5.47",
-        "classification": "G8V+M3.5V"
+        "classification": "G8V+M3.5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "HR3259",
@@ -753,7 +919,9 @@
         "b": "+12.8",
         "dist_ly": "41.04",
         "abs_magnitude": "5.45",
-        "classification": "G8V"
+        "classification": "G8V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "HR483",
@@ -762,7 +930,9 @@
         "b": "-19.3",
         "dist_ly": "41.24",
         "abs_magnitude": "4.45",
-        "classification": "G2V"
+        "classification": "G2V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Lambda Aurigae",
@@ -771,7 +941,9 @@
         "b": "+1.5",
         "dist_ly": "41.24",
         "abs_magnitude": "4.18",
-        "classification": "G0V"
+        "classification": "G0V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "HR683",
@@ -780,7 +952,9 @@
         "b": "-70.4",
         "dist_ly": "41.35",
         "abs_magnitude": "5.81",
-        "classification": "G8V"
+        "classification": "G8V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "44 Bo\u00f6tis",
@@ -789,7 +963,9 @@
         "b": "+57.1",
         "dist_ly": "41.61",
         "abs_magnitude": "4.30",
-        "classification": "G1V+G2V"
+        "classification": "G1V+G2V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "HR6518",
@@ -798,7 +974,9 @@
         "b": "+33.2",
         "dist_ly": "41.74",
         "abs_magnitude": "5.90",
-        "classification": "K0V"
+        "classification": "K0V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "36 Ursae Majoris",
@@ -807,7 +985,9 @@
         "b": "+51.7",
         "dist_ly": "41.91",
         "abs_magnitude": "4.28",
-        "classification": "F8V+K7V"
+        "classification": "F8V+K7V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR6094",
@@ -816,7 +996,9 @@
         "b": "+7.2",
         "dist_ly": "41.98",
         "abs_magnitude": "4.82",
-        "classification": "G3V+DA2"
+        "classification": "G3V+DA2",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "HR4587",
@@ -825,7 +1007,9 @@
         "b": "+50.5",
         "dist_ly": "42.10",
         "abs_magnitude": "4.99",
-        "classification": "K0IV"
+        "classification": "K0IV",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Alpha Aurigae",
@@ -834,7 +1018,9 @@
         "b": "+4.6",
         "dist_ly": "42.20",
         "abs_magnitude": "-0.49",
-        "classification": "G5III+G0III+M2V+M4V"
+        "classification": "G5III+G0III+M2V+M4V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "HR6998",
@@ -843,7 +1029,9 @@
         "b": "-6.8",
         "dist_ly": "42.35",
         "abs_magnitude": "5.28",
-        "classification": "G5V"
+        "classification": "G5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "58 Eridani",
@@ -852,7 +1040,9 @@
         "b": "-34.8",
         "dist_ly": "43.43",
         "abs_magnitude": "4.87",
-        "classification": "G3V"
+        "classification": "G3V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Upsilon Andromedae",
@@ -861,7 +1051,9 @@
         "b": "-20.7",
         "dist_ly": "43.93",
         "abs_magnitude": "3.45",
-        "classification": "F8V+M4.5V"
+        "classification": "F8V+M4.5V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Theta Ursae Majoris",
@@ -870,7 +1062,9 @@
         "b": "+45.7",
         "dist_ly": "43.99",
         "abs_magnitude": "2.52",
-        "classification": "F6IV+M?"
+        "classification": "F6IV+M?",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.3"
     },
     {
         "name": "HR8501",
@@ -879,7 +1073,9 @@
         "b": "-51.4",
         "dist_ly": "44.39",
         "abs_magnitude": "4.69",
-        "classification": "G1V+M?"
+        "classification": "G1V+M?",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "HR8",
@@ -888,7 +1084,9 @@
         "b": "-32.8",
         "dist_ly": "44.69",
         "abs_magnitude": "5.39",
-        "classification": "G8V"
+        "classification": "G8V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "Beta Aquilae",
@@ -897,7 +1095,9 @@
         "b": "-11.1",
         "dist_ly": "44.71",
         "abs_magnitude": "3.03",
-        "classification": "G8IV+M3V"
+        "classification": "G8IV+M3V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "10 Tauri",
@@ -906,7 +1106,9 @@
         "b": "-41.7",
         "dist_ly": "44.75",
         "abs_magnitude": "3.60",
-        "classification": "F8V"
+        "classification": "F8V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Iota Piscium",
@@ -915,7 +1117,9 @@
         "b": "-53.0",
         "dist_ly": "44.98",
         "abs_magnitude": "3.43",
-        "classification": "F7V"
+        "classification": "F7V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Gamma Cephei",
@@ -924,7 +1128,9 @@
         "b": "+15.3",
         "dist_ly": "44.99",
         "abs_magnitude": "2.51",
-        "classification": "K1IV+M?"
+        "classification": "K1IV+M?",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Tau\u00b9 Eridani",
@@ -933,7 +1139,9 @@
         "b": "-62.5",
         "dist_ly": "45.58",
         "abs_magnitude": "3.74",
-        "classification": "F6V"
+        "classification": "F6V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.3"
     },
     {
         "name": "18 Scorpii",
@@ -942,7 +1150,9 @@
         "b": "+29.2",
         "dist_ly": "45.74",
         "abs_magnitude": "4.76",
-        "classification": "G1V"
+        "classification": "G1V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "47 Ursae Majoris",
@@ -951,7 +1161,9 @@
         "b": "+63.4",
         "dist_ly": "45.91",
         "abs_magnitude": "4.29",
-        "classification": "G0V"
+        "classification": "G0V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "26 Draconis",
@@ -960,7 +1172,9 @@
         "b": "+32.7",
         "dist_ly": "45.95",
         "abs_magnitude": "4.49",
-        "classification": "G1V+K3V+M1V"
+        "classification": "G1V+K3V+M1V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Alpha Fornacis",
@@ -969,7 +1183,9 @@
         "b": "-59.0",
         "dist_ly": "46.03",
         "abs_magnitude": "3.05",
-        "classification": "F7IV+G7V"
+        "classification": "F7IV+G7V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "HR7578",
@@ -978,7 +1194,9 @@
         "b": "-23.9",
         "dist_ly": "46.37",
         "abs_magnitude": "5.46",
-        "classification": "K3V"
+        "classification": "K3V",
+        "texture": "orange_sun.jpg",
+        "solar_size": "0.6"
     },
     {
         "name": "Pi\u00b9 Ursae Majoris",
@@ -987,7 +1205,9 @@
         "b": "+35.7",
         "dist_ly": "46.55",
         "abs_magnitude": "4.86",
-        "classification": "G1V"
+        "classification": "G1V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Alpha Ophiuchi",
@@ -996,7 +1216,9 @@
         "b": "+22.6",
         "dist_ly": "46.70",
         "abs_magnitude": "1.30",
-        "classification": "A5III-IV"
+        "classification": "A5III-IV",
+        "texture": "white_sun.jpg",
+        "solar_size": "2.1"
     },
     {
         "name": "Eta Cephei",
@@ -1005,7 +1227,9 @@
         "b": "+11.6",
         "dist_ly": "46.77",
         "abs_magnitude": "2.63",
-        "classification": "K0IV"
+        "classification": "K0IV",
+        "texture": "orange_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "72 Herculis",
@@ -1014,7 +1238,9 @@
         "b": "+32.3",
         "dist_ly": "46.94",
         "abs_magnitude": "4.59",
-        "classification": "G1V"
+        "classification": "G1V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Nu\u00b2",
@@ -1023,7 +1249,9 @@
         "b": "327.1",
         "dist_ly": "68.70",
         "abs_magnitude": "5.65",
-        "classification": "+7.4"
+        "classification": "+7.4",
+        "texture": "red_sun.jpg",
+        "solar_size": "0.3"
     },
     {
         "name": "Theta Bo\u00f6tis",
@@ -1032,7 +1260,9 @@
         "b": "+59.7",
         "dist_ly": "47.52",
         "abs_magnitude": "3.22",
-        "classification": "F7V+M3V"
+        "classification": "F7V+M3V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Iota Ursae Majoris",
@@ -1041,7 +1271,9 @@
         "b": "+40.8",
         "dist_ly": "47.74",
         "abs_magnitude": "2.29",
-        "classification": "A7V+M1V+M?"
+        "classification": "A7V+M1V+M?",
+        "texture": "white_sun.jpg",
+        "solar_size": "1.8"
     },
     {
         "name": "HR7898",
@@ -1050,7 +1282,9 @@
         "b": "-33.8",
         "dist_ly": "47.77",
         "abs_magnitude": "5.53",
-        "classification": "G8V"
+        "classification": "G8V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "111 Tauri",
@@ -1059,7 +1293,9 @@
         "b": "-10.3",
         "dist_ly": "47.83",
         "abs_magnitude": "4.17",
-        "classification": "F8V+K4V+K5V"
+        "classification": "F8V+K4V+K5V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Psi Serpentis",
@@ -1068,7 +1304,9 @@
         "b": "+42.0",
         "dist_ly": "47.85",
         "abs_magnitude": "5.03",
-        "classification": "G5V+M?"
+        "classification": "G5V+M?",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Psi Capricorni",
@@ -1077,7 +1315,9 @@
         "b": "-35.5",
         "dist_ly": "47.85",
         "abs_magnitude": "3.30",
-        "classification": "F5V"
+        "classification": "F5V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.3"
     },
     {
         "name": "Alpha Corvi",
@@ -1086,7 +1326,9 @@
         "b": "+37.1",
         "dist_ly": "48.17",
         "abs_magnitude": "3.17",
-        "classification": "F2V"
+        "classification": "F2V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "2"
     },
     {
         "name": "I Hydrae",
@@ -1095,7 +1337,9 @@
         "b": "+21.5",
         "dist_ly": "48.54",
         "abs_magnitude": "4.07",
-        "classification": "G0V"
+        "classification": "G0V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "20 Leonis Minoris",
@@ -1104,7 +1348,9 @@
         "b": "+52.9",
         "dist_ly": "48.58",
         "abs_magnitude": "4.50",
-        "classification": "G2V"
+        "classification": "G2V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "HR209",
@@ -1113,7 +1359,9 @@
         "b": "-69.6",
         "dist_ly": "48.74",
         "abs_magnitude": "4.93",
-        "classification": "G5V"
+        "classification": "G5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "Alpha Cephei",
@@ -1122,7 +1370,9 @@
         "b": "+9.2",
         "dist_ly": "48.80",
         "abs_magnitude": "1.58",
-        "classification": "A7IV-V"
+        "classification": "A7IV-V",
+        "texture": "white_sun.jpg",
+        "solar_size": "1.8"
     },
     {
         "name": "HR7162",
@@ -1131,7 +1381,9 @@
         "b": "+13.3",
         "dist_ly": "48.86",
         "abs_magnitude": "4.32",
-        "classification": "G0V+K1V"
+        "classification": "G0V+K1V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "Eta Leporis",
@@ -1140,7 +1392,9 @@
         "b": "-18.5",
         "dist_ly": "49.07",
         "abs_magnitude": "2.82",
-        "classification": "F0V"
+        "classification": "F0V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "2"
     },
     {
         "name": "Nu Phoenicis",
@@ -1149,7 +1403,9 @@
         "b": "-71.0",
         "dist_ly": "49.10",
         "abs_magnitude": "4.08",
-        "classification": "F8V"
+        "classification": "F8V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.1"
     },
     {
         "name": "19 Draconis",
@@ -1158,7 +1414,9 @@
         "b": "+36.5",
         "dist_ly": "49.21",
         "abs_magnitude": "3.99",
-        "classification": "F6V"
+        "classification": "F6V",
+        "texture": "yellow_white_sun.jpg",
+        "solar_size": "1.3"
     },
     {
         "name": "31 Aquilae",
@@ -1167,7 +1425,9 @@
         "b": "-1.9",
         "dist_ly": "49.41",
         "abs_magnitude": "4.27",
-        "classification": "G8IV"
+        "classification": "G8IV",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "0.9"
     },
     {
         "name": "HR3018",
@@ -1176,7 +1436,9 @@
         "b": "-4.8",
         "dist_ly": "49.58",
         "abs_magnitude": "4.45",
-        "classification": "G0V+DC"
+        "classification": "G0V+DC",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.2"
     },
     {
         "name": "HR5864",
@@ -1185,7 +1447,9 @@
         "b": "+13.0",
         "dist_ly": "49.72",
         "abs_magnitude": "5.09",
-        "classification": "G6V+DA7"
+        "classification": "G6V+DA7",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1"
     },
     {
         "name": "Mu Arae",
@@ -1194,6 +1458,8 @@
         "b": "-11.5",
         "dist_ly": "49.83",
         "abs_magnitude": "4.23",
-        "classification": "G5V"
+        "classification": "G5V",
+        "texture": "yellow_sun.jpg",
+        "solar_size": "1.1"
     }
 ]
