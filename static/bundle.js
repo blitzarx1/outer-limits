@@ -62227,6 +62227,7 @@ function init(data) {
     controls.enableDamping = true
     controls.dampingFactor = 0.25
     controls.enableZoom = true
+    controls.enablePan = false
 
 }
 
